@@ -269,7 +269,7 @@
 				TargetAttributes = {
 					D0C82ED61B7D04ED001725B3 = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = X4A9GH5NN2;
+						DevelopmentTeam = F5FT499PEU;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -286,7 +286,7 @@
 					};
 					D0C82F0B1B7D05FE001725B3 = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = X4A9GH5NN2;
+						DevelopmentTeam = F5FT499PEU;
 					};
 				};
 			};
@@ -518,7 +518,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = "Open Adblock/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = saagarjha.org.openadblock.openadblock;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdamutten.org.openadblock.openadblock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -534,7 +534,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = "Open Adblock/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = saagarjha.org.openadblock.openadblock;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdamutten.org.openadblock.openadblock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -595,7 +595,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Adblock Content Blocker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = saagarjha.org.openadblock.openadblock.openadblockextension;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdamutten.org.openadblock.openadblock.openadblockextension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -609,7 +609,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Adblock Content Blocker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = saagarjha.org.openadblock.openadblock.openadblockextension;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdamutten.org.openadblock.openadblock.openadblockextension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
